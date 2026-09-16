@@ -1,0 +1,6 @@
+{
+  "name": "SplitPool - Group Expense & Gift Tracker",
+  "description": "Smart group collection and fair-share settlement tracker for farewell gifts, team pools, and shared expenses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
